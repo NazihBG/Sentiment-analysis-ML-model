@@ -288,13 +288,4 @@ It emphasizes:
 
 ---
 
-## 16. Future Work
-
-- Multilingual sentiment analysis
-- Domain-specific adaptation
-- Instruction-tuned LLMs
-- Retrieval-Augmented Generation (RAG)
-- Full MLOps integration
-
----
 
